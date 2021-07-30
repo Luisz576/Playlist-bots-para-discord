@@ -4,12 +4,22 @@
 
 #### https://www.youtube.com/channel/UCI_NylhJdIz10I8uIrhfWSw
 
+<br>
+
 ## <i>Acompanhe os vídeos pela playlist</i>
 
 #### https://youtube.com/playlist?list=PLwSA3gdXa-tDQt8cm2o2NkrZ3CquUPSbb
+
+<br>
 
 ---
 
 ## <strong>Ep.1</strong>
 
 ### <i>Nesse episódio nós instalamos o <strong>node.js</strong> junto com o <strong>VS Code</strong> e o <strong>discord.js</strong>, além de montarmos nosso primeiro bot que retorna o nosso famoso <strong>Hello World</strong>!</i>
+
+<br>
+
+## <strong>Ep.2</strong>
+
+### <i>Nesse episódio nós desenvolvemos um <strong>bot de boas vindas e idas</strong> que como o prórpio nome diz: quando um usuário entra no servidor ele dá as boas vindas e quando sai diz que o usuário saiu.
