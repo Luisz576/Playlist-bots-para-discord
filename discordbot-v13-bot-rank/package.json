@@ -1,0 +1,30 @@
+{
+  "name": "discordbot-ep4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisz576/Playlist-bots-para-discord.git"
+  },
+  "keywords": [
+    "discordbot",
+    "bot",
+    "discord.js",
+    "points",
+    "controll"
+  ],
+  "author": "Luisz576",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisz576/Playlist-bots-para-discord/issues"
+  },
+  "homepage": "https://github.com/Luisz576/Playlist-bots-para-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "mongoose": "^5.13.7"
+  }
+}

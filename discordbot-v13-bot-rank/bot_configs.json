@@ -1,0 +1,6 @@
+{
+    "commands_prefix": "+@",
+    "admin_role": "785549305328188921",
+    "members_role": "785549642617440291",
+    "no_command_message": "Desculpe, ainda não conheço esse comando!\nTente usar <help_command> para obter ajuda!"
+}
