@@ -14,6 +14,8 @@
 
 ---
 
+## <i>Episódios</i>
+
 ## <strong>Ep.1</strong>
 
 ### <i>Nesse episódio nós instalamos o <strong>node.js</strong> junto com o <strong>VS Code</strong> e o <strong>discord.js</strong>, além de montarmos nosso primeiro bot que retorna o nosso famoso <strong>Hello World</strong>!</i>
@@ -28,6 +30,16 @@
 
 ---
 
+## <i>Projetos</i>
+
 ## <strong>Discord Rank</strong>
 
 ### <i>Esse bot para os comandos usa um sistema de arquivos, basta colocar um arquivo .js na pasta "commands" e o mesmo ter a formatação padrão de um comando, além de usar o mongodb atlas para armazenamento das pontuações.</i>
+
+---
+
+## <i>Atualizações</i>
+
+## <strong>Discord.js V13 - Atualização</strong>
+
+### O discord.js passou por uma atualização, indo da v12 para a v13. As atualizações constam no vídeo e nos arquivos disponibilizados.
